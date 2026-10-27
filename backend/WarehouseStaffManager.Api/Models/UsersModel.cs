@@ -12,5 +12,6 @@ public class UsersModel
 
     public List<AvailabilitiesModel> Availability { get; set; } = new();
     public List<ShiftsModel> Shifts { get; set; } = new();
+    public List<AvailabilitySubmissionModel> Submissions { get; set; } = new();
 
 }
