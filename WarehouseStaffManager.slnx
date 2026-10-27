@@ -1,0 +1,6 @@
+﻿<Solution><PropertyGroup>  
+  </PropertyGroup>
+  <Folder Name="/backend/">
+    <Project Path="backend/WarehouseStaffManager.Api/WarehouseStaffManager.Api.csproj" />
+  </Folder>
+</Solution>
